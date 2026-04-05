@@ -1,0 +1,7 @@
+body {
+    background-image: url("tetoweezer.jpg");
+    background-size: 100% 100%;
+    background-position: top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
